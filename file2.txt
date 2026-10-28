@@ -1,1 +1,2 @@
 Hello, world
+Добавим строку в ветке feature-branch.
